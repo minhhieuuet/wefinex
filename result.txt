@@ -1,0 +1,207 @@
+06-02-2021 16:33:29 
+Left: 48% 
+Right: 52% 
+Final Left: 50% 
+Final Right: 50% 
+Result: UP 
+=============================== 
+06-02-2021 16:34:29 
+Left: 36% 
+Right: 64% 
+Final Left: 41% 
+Final Right: 59% 
+Result: UP 
+=============================== 
+06-02-2021 16:35:29 
+Left: 41% 
+Right: 59% 
+Final Left: 42% 
+Final Right: 58% 
+Result: DOWN 
+=============================== 
+06-02-2021 16:36:29 
+Left: 67% 
+Right: 33% 
+Final Left: 63% 
+Final Right: 37% 
+Result: DOWN 
+=============================== 
+06-02-2021 16:37:29 
+Left: 73% 
+Right: 27% 
+Final Left: 71% 
+Final Right: 29% 
+Result: UP 
+=============================== 
+06-02-2021 16:38:29 
+Left: 46% 
+Right: 54% 
+Final Left: 45% 
+Final Right: 55% 
+Result: DOWN 
+=============================== 
+06-02-2021 16:39:29 
+Left: 50% 
+Right: 50% 
+Final Left: 49% 
+Final Right: 51% 
+Result: DOWN 
+=============================== 
+06-02-2021 16:40:29 
+Left: 39% 
+Right: 61% 
+Final Left: 41% 
+Final Right: 59% 
+Result: DOWN 
+=============================== 
+06-02-2021 16:41:29 
+Left: 54% 
+Right: 46% 
+Final Left: 55% 
+Final Right: 45% 
+Result: UP 
+=============================== 
+06-02-2021 16:42:28 
+Left: 46% 
+Right: 54% 
+Final Left: 46% 
+Final Right: 54% 
+Result: UP 
+=============================== 
+06-02-2021 16:43:28 
+Left: 44% 
+Right: 56% 
+Final Left: 43% 
+Final Right: 57% 
+Result: DOWN 
+=============================== 
+06-02-2021 16:44:28 
+Left: 39% 
+Right: 61% 
+Final Left: 40% 
+Final Right: 60% 
+Result: UP 
+=============================== 
+06-02-2021 16:45:28 
+Left: 55% 
+Right: 45% 
+Final Left: 52% 
+Final Right: 48% 
+Result: DOWN 
+=============================== 
+06-02-2021 16:46:28 
+Left: 50% 
+Right: 50% 
+Final Left: 51% 
+Final Right: 49% 
+Result: DOWN 
+=============================== 
+06-02-2021 16:47:28 
+Left: 47% 
+Right: 53% 
+Final Left: 46% 
+Final Right: 54% 
+Result: UP 
+=============================== 
+06-02-2021 16:48:28 
+Left: 65% 
+Right: 35% 
+Final Left: 61% 
+Final Right: 39% 
+Result: UP 
+=============================== 
+06-02-2021 16:49:28 
+Left: 34% 
+Right: 66% 
+Final Left: 35% 
+Final Right: 65% 
+Result: DOWN 
+=============================== 
+06-02-2021 16:50:28 
+Left: 49% 
+Right: 51% 
+Final Left: 51% 
+Final Right: 49% 
+Result: UP 
+=============================== 
+06-02-2021 16:51:28 
+Left: 43% 
+Right: 57% 
+Final Left: 41% 
+Final Right: 59% 
+Result: UP 
+=============================== 
+06-02-2021 16:52:28 
+Left: 39% 
+Right: 61% 
+Final Left: 39% 
+Final Right: 61% 
+Result: UP 
+=============================== 
+Final Left: 36% 
+Final Right: 64% 
+Result: UP 
+=============================== 
+06-02-2021 16:54:28 
+Left: 45% 
+Right: 55% 
+Final Left: 46% 
+Final Right: 54% 
+Result: DOWN 
+=============================== 
+06-02-2021 16:55:28 
+Left: 42% 
+Right: 58% 
+Final Left: 40% 
+Final Right: 60% 
+Result: UP 
+=============================== 
+06-02-2021 16:56:28 
+Left: 42% 
+Right: 58% 
+Final Left: 43% 
+Final Right: 57% 
+Result: DOWN 
+=============================== 
+06-02-2021 16:57:28 
+Left: 62% 
+Right: 38% 
+Final Left: 62% 
+Final Right: 38% 
+Result: DOWN 
+=============================== 
+06-02-2021 16:58:28 
+Left: 53% 
+Right: 47% 
+Final Left: 52% 
+Final Right: 48% 
+Result: UP 
+=============================== 
+06-02-2021 16:59:28 
+Left: 46% 
+Right: 54% 
+Final Left: 47% 
+Final Right: 53% 
+Result: UP 
+=============================== 
+06-02-2021 17:00:28 
+Left: 59% 
+Right: 41% 
+Final Left: 58% 
+Final Right: 42% 
+Result: DOWN 
+=============================== 
+06-02-2021 17:01:28 
+Left: 49% 
+Right: 51% 
+Final Left: 49% 
+Final Right: 51% 
+Result: UP 
+=============================== 
+06-02-2021 17:02:28 
+Left: 56% 
+Right: 44% 
+Final Left: 55% 
+Final Right: 45% 
+Result: DOWN 
+=============================== 
